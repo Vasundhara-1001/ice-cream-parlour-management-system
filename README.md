@@ -1,5 +1,5 @@
 # Ice Cream Parlour Management System
-A project developed for managing ice cfeam parlour operations.
+A project developed for managing ice cream parlour operations.
 
 ## Features
 - Manage billing
