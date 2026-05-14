@@ -1,0 +1,489 @@
+[
+    {
+        "date": "2026-04-03",
+        "items": [
+            {
+                "id": "19",
+                "name": "Black Current Burst",
+                "price": "110.00",
+                "quantity": "1",
+                "subtotal": 110
+            }
+        ],
+        "total": 110
+    },
+    {
+        "date": "2026-04-03 13:11:02",
+        "items": [
+            {
+                "id": "20",
+                "name": "Roasted Almond Fudge",
+                "price": "130.00",
+                "quantity": "2",
+                "subtotal": 260
+            },
+            {
+                "id": "28",
+                "name": "Dry Fruit Royal",
+                "price": "180.00",
+                "quantity": "1",
+                "subtotal": 180
+            },
+            {
+                "id": "29",
+                "name": "Belgian Chocolate Truffle",
+                "price": "210.00",
+                "quantity": "8",
+                "subtotal": 1680
+            }
+        ],
+        "total": 2120
+    },
+    {
+        "date": "2026-04-03 13:11:17",
+        "items": [
+            {
+                "id": "19",
+                "name": "Black Current Burst",
+                "price": "110.00",
+                "quantity": "1",
+                "subtotal": 110
+            }
+        ],
+        "total": 110
+    },
+    {
+        "date": "2026-04-03 13:20:46",
+        "items": [
+            {
+                "id": "15",
+                "name": "Strawberry Swirl",
+                "price": "70.00",
+                "quantity": "10",
+                "subtotal": 700
+            },
+            {
+                "id": "16",
+                "name": "Mango Magic",
+                "price": "80.00",
+                "quantity": "1",
+                "subtotal": 80
+            },
+            {
+                "id": "26",
+                "name": "Brownie Blast Sundae",
+                "price": "200.00",
+                "quantity": "1",
+                "subtotal": 200
+            }
+        ],
+        "total": 980
+    },
+    {
+        "date": "2026-04-03 13:23:15",
+        "items": [
+            {
+                "id": "31",
+                "name": "Butterscotch Crunch",
+                "price": "90.00",
+                "quantity": "1",
+                "subtotal": 90
+            }
+        ],
+        "total": 90
+    },
+    {
+        "date": "2026-04-03 14:06:05",
+        "items": [
+            {
+                "id": "26",
+                "name": "Brownie Blast Sundae",
+                "price": "200.00",
+                "quantity": "1",
+                "subtotal": 200
+            }
+        ],
+        "total": 200
+    },
+    {
+        "date": "2026-04-03 14:08:40",
+        "items": [
+            {
+                "id": "32",
+                "name": "Chocolate Dream",
+                "price": "70.00",
+                "quantity": "1",
+                "subtotal": 70
+            }
+        ],
+        "total": 70
+    },
+    {
+        "date": "2026-04-03 14:12:22",
+        "items": [
+            {
+                "id": "13",
+                "name": "Vanilla Bliss",
+                "price": "60.00",
+                "quantity": "1",
+                "subtotal": 60
+            }
+        ],
+        "total": 60
+    },
+    {
+        "date": "2026-04-03 17:50:06",
+        "items": [
+            {
+                "id": "15",
+                "name": "Strawberry Swirl",
+                "price": "70.00",
+                "quantity": "1",
+                "subtotal": 70
+            }
+        ],
+        "total": 70
+    },
+    {
+        "date": "2026-04-03 18:57:42",
+        "items": [
+            {
+                "id": "16",
+                "name": "Mango Magic",
+                "price": "80.00",
+                "quantity": "1",
+                "subtotal": 80
+            },
+            {
+                "id": "20",
+                "name": "Roasted Almond Fudge",
+                "price": "130.00",
+                "quantity": "1",
+                "subtotal": 130
+            },
+            {
+                "id": "24",
+                "name": "Ferrero Rocher Sundae",
+                "price": "220.00",
+                "quantity": "2",
+                "subtotal": 440
+            }
+        ],
+        "total": 650
+    },
+    {
+        "date": "2026-04-04 15:40:23",
+        "items": [
+            {
+                "id": "19",
+                "name": "Black Current Burst",
+                "price": "110.00",
+                "quantity": "1",
+                "subtotal": 110
+            },
+            {
+                "id": "20",
+                "name": "Roasted Almond Fudge",
+                "price": "130.00",
+                "quantity": "9",
+                "subtotal": 1170
+            },
+            {
+                "id": "34",
+                "name": "Mint Choco Chip",
+                "price": "130.00",
+                "quantity": "2",
+                "subtotal": 260
+            }
+        ],
+        "total": 1540
+    },
+    {
+        "date": "2026-04-05 14:59:31",
+        "items": [
+            {
+                "id": "13",
+                "name": "Vanilla Bliss",
+                "price": "60.00",
+                "quantity": "3",
+                "subtotal": 180
+            },
+            {
+                "id": "20",
+                "name": "Roasted Almond Fudge",
+                "price": "130.00",
+                "quantity": "5",
+                "subtotal": 650
+            },
+            {
+                "id": "24",
+                "name": "Ferrero Rocher Sundae",
+                "price": "220.00",
+                "quantity": "1",
+                "subtotal": 220
+            },
+            {
+                "id": "26",
+                "name": "Brownie Blast Sundae",
+                "price": "200.00",
+                "quantity": "1",
+                "subtotal": 200
+            }
+        ],
+        "total": 1250
+    },
+    {
+        "date": "2026-04-05 15:00:01",
+        "items": [
+            {
+                "id": "26",
+                "name": "Brownie Blast Sundae",
+                "price": "200.00",
+                "quantity": "1",
+                "subtotal": 200
+            }
+        ],
+        "total": 200
+    },
+    {
+        "date": "2026-04-05 15:24:02",
+        "items": [
+            {
+                "id": "16",
+                "name": "Mango Magic",
+                "price": "80.00",
+                "quantity": "1",
+                "subtotal": 80
+            },
+            {
+                "id": "20",
+                "name": "Roasted Almond Fudge",
+                "price": "130.00",
+                "quantity": "1",
+                "subtotal": 130
+            },
+            {
+                "id": "26",
+                "name": "Brownie Blast Sundae",
+                "price": "200.00",
+                "quantity": "1",
+                "subtotal": 200
+            },
+            {
+                "id": "28",
+                "name": "Dry Fruit Royal",
+                "price": "180.00",
+                "quantity": "1",
+                "subtotal": 180
+            }
+        ],
+        "total": 590
+    },
+    {
+        "date": "2026-04-05 15:28:08",
+        "items": [
+            {
+                "id": "24",
+                "name": "Ferrero Rocher Sundae",
+                "price": "220.00",
+                "quantity": "1",
+                "subtotal": 220
+            }
+        ],
+        "total": 220
+    },
+    {
+        "date": "2026-04-05 15:33:22",
+        "items": [
+            {
+                "id": "19",
+                "name": "Black Current Burst",
+                "price": "110.00",
+                "quantity": "1",
+                "subtotal": 110
+            },
+            {
+                "id": "20",
+                "name": "Roasted Almond Fudge",
+                "price": "130.00",
+                "quantity": "4",
+                "subtotal": 520
+            },
+            {
+                "id": "26",
+                "name": "Brownie Blast Sundae",
+                "price": "200.00",
+                "quantity": "1",
+                "subtotal": 200
+            },
+            {
+                "id": "32",
+                "name": "Chocolate Dream",
+                "price": "70.00",
+                "quantity": "1",
+                "subtotal": 70
+            }
+        ],
+        "total": 900
+    },
+    {
+        "date": "2026-04-05 21:03:47",
+        "items": [
+            {
+                "id": "11",
+                "name": "Belgian Chocolate Truffle",
+                "price": "210.00",
+                "quantity": "1",
+                "subtotal": 210
+            }
+        ],
+        "total": 210
+    },
+    {
+        "date": "2026-04-08 11:57:13",
+        "items": [
+            {
+                "id": "2",
+                "name": "Strawberry Swirl",
+                "price": "70.00",
+                "quantity": "1",
+                "subtotal": 70
+            }
+        ],
+        "total": 70
+    },
+    {
+        "date": "2026-04-12 10:51:58",
+        "items": [
+            {
+                "id": "8",
+                "name": "Red Velvet Cream",
+                "price": "190.00",
+                "quantity": "1",
+                "subtotal": 190
+            }
+        ],
+        "total": 190
+    },
+    {
+        "date": "2026-04-14 20:15:32",
+        "items": [
+            {
+                "id": "1",
+                "name": "Vanilla Bliss",
+                "price": "60.00",
+                "quantity": "1",
+                "subtotal": 60
+            },
+            {
+                "id": "4",
+                "name": "Black Current Burst",
+                "price": "110.00",
+                "quantity": "1",
+                "subtotal": 110
+            },
+            {
+                "id": "6",
+                "name": "Kesar Pista Delight",
+                "price": "140.00",
+                "quantity": "4",
+                "subtotal": 560
+            },
+            {
+                "id": "8",
+                "name": "Red Velvet Cream",
+                "price": "190.00",
+                "quantity": "1",
+                "subtotal": 190
+            },
+            {
+                "id": "13",
+                "name": "Chocolate Dream",
+                "price": "70.00",
+                "quantity": "1",
+                "subtotal": 70
+            }
+        ],
+        "total": 990
+    },
+    {
+        "date": "2026-04-15 16:39:35",
+        "items": [
+            {
+                "id": "1",
+                "name": "Vanilla Bliss",
+                "price": "60.00",
+                "quantity": "1",
+                "subtotal": 60
+            },
+            {
+                "id": "9",
+                "name": "Brownie Blast Sundae",
+                "price": "200.00",
+                "quantity": "1",
+                "subtotal": 200
+            }
+        ],
+        "total": 260
+    },
+    {
+        "date": "2026-04-19 14:46:27",
+        "items": [
+            {
+                "id": "4",
+                "name": "Black Current Burst",
+                "price": "110.00",
+                "quantity": "1",
+                "subtotal": 110
+            },
+            {
+                "id": "7",
+                "name": "Ferrero Rocher Sundae",
+                "price": "220.00",
+                "quantity": "2",
+                "subtotal": 440
+            }
+        ],
+        "total": 550
+    },
+    {
+        "date": "2026-04-20 09:49:55",
+        "items": [
+            {
+                "id": "3",
+                "name": "Mango Magic",
+                "price": "80.00",
+                "quantity": "4",
+                "subtotal": 320
+            },
+            {
+                "id": "4",
+                "name": "Black Current Burst",
+                "price": "110.00",
+                "quantity": "1",
+                "subtotal": 110
+            }
+        ],
+        "total": 430
+    },
+    {
+        "date": "2026-04-20 10:22:04",
+        "items": [
+            {
+                "id": "4",
+                "name": "Black Current Burst",
+                "price": "110.00",
+                "quantity": "1",
+                "subtotal": 110
+            },
+            {
+                "id": "14",
+                "name": "Coffee Caramel",
+                "price": "120.00",
+                "quantity": "7",
+                "subtotal": 840
+            }
+        ],
+        "total": 950
+    }
+]
